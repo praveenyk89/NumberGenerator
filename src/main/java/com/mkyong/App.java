@@ -17,6 +17,7 @@ public class App
         System.out.println("Unique ID : " + obj.generateUniqueKey());
         System.out.println("Unique ID : " + obj.generateUniqueKey());
         System.out.println("Unique ID : " + obj.generateUniqueKey());
+        System.out.println("Unique ID : " + obj.generateUniqueKey());
     }
     
     public String generateUniqueKey(){
